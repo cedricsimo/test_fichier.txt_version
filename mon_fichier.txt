@@ -25,3 +25,6 @@
     Visualisez l'historique des commits en utilisant la commande git log. Vous devriez voir les deux commits que vous avez effectués, avec les messages correspondants.
 
 Cet exercice vous permet de pratiquer les commandes de base de Git, notamment l'initialisation d'un dépôt, l'ajout de fichiers à l'index, la validation des modifications et la visualisation de l'historique des commits. Vous pouvez également explorer d'autres fonctionnalités de Git, telles que la création de branches, la fusion de branches, etc., pour approfondir vos connaissances.
+
+
+ceci c'est une ligne de plus, ah waih
