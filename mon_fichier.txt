@@ -28,3 +28,5 @@ Cet exercice vous permet de pratiquer les commandes de base de Git, notamment l'
 
 
 ceci c'est une ligne de plus, ah waih
+
+ceci est une autre mise à jour du fichier pour un 3e commit
