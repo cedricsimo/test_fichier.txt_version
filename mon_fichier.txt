@@ -1,0 +1,27 @@
+    Créez un nouveau répertoire sur votre ordinateur.
+
+    Initialisez un nouveau dépôt Git dans ce répertoire en utilisant la commande git init.
+
+    Créez un fichier texte vide appelé "mon_fichier.txt" dans le répertoire.
+
+    Ajoutez du contenu au fichier en y écrivant quelques lignes de texte.
+
+    Vérifiez l'état de votre dépôt en utilisant la commande git status. Vous devriez voir que le fichier "mon_fichier.txt" est répertorié comme un nouveau fichier non suivi.
+
+    Ajoutez le fichier à l'index en utilisant la commande git add mon_fichier.txt.
+
+    Vérifiez à nouveau l'état de votre dépôt. Le fichier devrait maintenant être répertorié comme modifié et prêt à être validé.
+
+    Validez les modifications en utilisant la commande git commit -m "Ajout de mon_fichier.txt". Ajoutez un message descriptif entre les guillemets pour expliquer la modification.
+
+    Modifiez le contenu du fichier "mon_fichier.txt" en y ajoutant quelques lignes supplémentaires.
+
+    Vérifiez à nouveau l'état de votre dépôt. Le fichier devrait maintenant être répertorié comme modifié mais non encore validé.
+
+    Ajoutez les modifications du fichier à l'index en utilisant la commande git add mon_fichier.txt.
+
+    Validez les modifications en utilisant la commande git commit -m "Mise à jour de mon_fichier.txt".
+
+    Visualisez l'historique des commits en utilisant la commande git log. Vous devriez voir les deux commits que vous avez effectués, avec les messages correspondants.
+
+Cet exercice vous permet de pratiquer les commandes de base de Git, notamment l'initialisation d'un dépôt, l'ajout de fichiers à l'index, la validation des modifications et la visualisation de l'historique des commits. Vous pouvez également explorer d'autres fonctionnalités de Git, telles que la création de branches, la fusion de branches, etc., pour approfondir vos connaissances.
